@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PTRRT
-- 👀 I’m interested in nothing
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me anyway
